@@ -40,7 +40,7 @@ Notebook has comments at the locations where you need to change the file.
 
 If you want to simulate the data for different locations than boreal Alaska, you will have to identify the major classes on ground (like boreal region has birch, black spruce and gravel/trail). SRF for Sentinel and AVIRIS_NG data will remain the same.
 
-You will have to train the model using the training data for your location. Additional Jupyter notebook (**Classification**) has been provided to train model and check model accuracy. You need to give DEM, simulated hyperspectral image (VRT file output from Simulation notebook) and input training data (shapefile or geojson (preferred format)).
+You will have to train the model using the training data for your location. Additional Jupyter notebook (**Classification**) has been provided to train model and check model accuracy. You will have to provide DEM, simulated hyperspectral image (VRT file output from Simulation notebook) and input training data (shapefile or geojson (preferred format)).
 
 The output will be RandomForest.joblib, Meta_Info.json and model assessments. Use RandomForest.joblib and Meta_Info.json in Prediction notebook.
 
