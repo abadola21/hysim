@@ -51,3 +51,5 @@ Badola et al. (2021) https://doi.org/10.3390/rs13091693
 Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
 
 For additional information contact: abadola@alaska.edu
+
+This material is based upon work supported by the National Science Foundation under the award OIA-1757348 and the State of Alaska
