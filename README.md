@@ -49,3 +49,5 @@ The output will be RandomForest.joblib, Meta_Info.json and model assessments. Us
 Badola et al. (2021) https://doi.org/10.3390/rs13091693
 
 Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
+
+For additional information contact: abadola@alaska.edu
