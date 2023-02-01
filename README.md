@@ -23,7 +23,7 @@ Final output will be a folder with simulated tiles and a VRT file. The VRT file 
 
 **3. Prediction:**
 This notebook is for classifying the simulated hyperspectral data. 
-Provide path for four files: DEM, simulated data, model path and metadata info (model path and metadata info files are available inside Data folder)
+Provide path for four files: DEM, simulated data, model path and metadata info (model path and metadata info files are available inside Data > model.zip)
 
 **_RandomForest.joblib_:** This is the trained model for the boreal domain of Alaska. 
 
