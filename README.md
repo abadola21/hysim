@@ -52,7 +52,7 @@ One Sentinel scene (100x100km): 4.5 GB
 
 Simulation.ipynb output (Simulated hyperspectral data ): 198 GB
 
-Pediction.ipynb output (classified images): 250 MB
+Prediction.ipynb output (classified images): 250 MB
 
 Be mindful while running this code on whole Sentinel scene, you will need ~200 GB storage. 
 
