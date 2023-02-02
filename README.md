@@ -44,6 +44,18 @@ You will have to train the model using the training data for your location. Addi
 
 The output will be RandomForest.joblib, Meta_Info.json and model assessments. Use RandomForest.joblib and Meta_Info.json in Prediction notebook.
 
+==============================================
+
+**Additional Information**
+
+one Sentinel scene (100x100km): 4.5 GB
+
+Simulation.ipynb output (Simulated hyperspectral data ): 198 GB
+
+Pediction.ipynb output (classified images): 250 MB
+
+Be mindful while running this code on whole Sentinel scene, you will need ~200 GB storage. 
+
 **Reference material:**
 
 Badola et al. (2021) https://doi.org/10.3390/rs13091693
@@ -51,5 +63,7 @@ Badola et al. (2021) https://doi.org/10.3390/rs13091693
 Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
 
 For additional information contact: abadola@alaska.edu
+
+**Funding support**
 
 This material is based upon work supported by the National Science Foundation under the award OIA-1757348 and the State of Alaska
