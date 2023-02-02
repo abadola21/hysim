@@ -48,7 +48,7 @@ The output will be RandomForest.joblib, Meta_Info.json and model assessments. Us
 
 **Additional Information**
 
-one Sentinel scene (100x100km): 4.5 GB
+One Sentinel scene (100x100km): 4.5 GB
 
 Simulation.ipynb output (Simulated hyperspectral data ): 198 GB
 
