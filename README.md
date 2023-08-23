@@ -64,6 +64,23 @@ Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
 
 For additional information contact: abadola@alaska.edu
 
+**Citation**
+```
+@article{BADOLA2022102891,<br/>
+title = {A novel method to simulate AVIRIS-NG hyperspectral image from Sentinel-2 image for improved vegetation/wildfire fuel mapping, boreal Alaska},<br/>
+journal = {International Journal of Applied Earth Observation and Geoinformation},<br/>
+volume = {112},<br/>
+pages = {102891},<br/>
+year = {2022},<br/>
+issn = {1569-8432},<br/>
+doi = {https://doi.org/10.1016/j.jag.2022.102891},<br/>
+url = {https://www.sciencedirect.com/science/article/pii/S1569843222000930},<br/>
+author = {Anushree Badola and Santosh K. Panda and Dar A. Roberts and Christine F. Waigl and Randi R. Jandt and Uma S. Bhatt}<br/>
+```
+**License**
+
+The data are licensed under a MIT license. See LICENSE.txt for details.
+
 **Funding support**
 
 This material is based upon work supported by the National Science Foundation under the award OIA-1757348 and the State of Alaska
