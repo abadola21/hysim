@@ -1,6 +1,8 @@
 # hysim
 Python codes to simulate hyperspectral data and generate vegetation map for boreal Alaska at Sentinel-2 scale.
 
+**Cite the Code:** [![DOI](https://zenodo.org/badge/515659835.svg)](https://zenodo.org/badge/latestdoi/515659835)
+
 There are three Jupyter notebooks: DEM_preprocessing, Simulation, Prediction
 
 **1. DEM_preprocessing:**
@@ -56,6 +58,11 @@ Prediction.ipynb output (classified images): 250 MB
 
 Be mindful while running this code on whole Sentinel scene, you will need ~200 GB storage. 
 
+**Data availability**
+
+Sentinel-2 data (https://scihub.copernicus.eu/dhus/#/home)<br/>
+ASTER Global Digital Elevation Model (GDEM) (https://earthdata.nasa.gov/)<br/>
+
 **Reference material:**
 
 Badola et al. (2021) https://doi.org/10.3390/rs13091693
@@ -63,11 +70,6 @@ Badola et al. (2021) https://doi.org/10.3390/rs13091693
 Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
 
 For additional information contact: abadola@alaska.edu
-
-**Data availability**
-
-Sentinel-2 data (https://scihub.copernicus.eu/dhus/#/home)<br/>
-ASTER Global Digital Elevation Model (GDEM) (https://earthdata.nasa.gov/)<br/>
 
 **Citation**
 ```
@@ -84,7 +86,7 @@ author = {Anushree Badola and Santosh K. Panda and Dar A. Roberts and Christine 
 ```
 **License**
 
-The data are licensed under a MIT license. See LICENSE.txt for details.
+The data are licensed under a MIT license. See _LICENSE_ for details.
 
 **Funding support**
 
