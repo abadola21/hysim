@@ -64,6 +64,11 @@ Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
 
 For additional information contact: abadola@alaska.edu
 
+**Data availability**
+
+Sentinel-2 data (https://scihub.copernicus.eu/dhus/#/home)<br/>
+ASTER Global Digital Elevation Model (GDEM) (https://earthdata.nasa.gov/)<br/>
+
 **Citation**
 ```
 @article{BADOLA2022102891,<br/>
