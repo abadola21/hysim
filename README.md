@@ -71,16 +71,16 @@ ASTER Global Digital Elevation Model (GDEM) (https://earthdata.nasa.gov/)<br/>
 
 **Citation**
 ```
-@article{BADOLA2022102891,<br/>
-title = {A novel method to simulate AVIRIS-NG hyperspectral image from Sentinel-2 image for improved vegetation/wildfire fuel mapping, boreal Alaska},<br/>
-journal = {International Journal of Applied Earth Observation and Geoinformation},<br/>
-volume = {112},<br/>
-pages = {102891},<br/>
-year = {2022},<br/>
-issn = {1569-8432},<br/>
-doi = {https://doi.org/10.1016/j.jag.2022.102891},<br/>
-url = {https://www.sciencedirect.com/science/article/pii/S1569843222000930},<br/>
-author = {Anushree Badola and Santosh K. Panda and Dar A. Roberts and Christine F. Waigl and Randi R. Jandt and Uma S. Bhatt}<br/>
+@article{BADOLA2022102891,
+title = {A novel method to simulate AVIRIS-NG hyperspectral image from Sentinel-2 image for improved vegetation/wildfire fuel mapping, boreal Alaska},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {112},
+pages = {102891},
+year = {2022},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2022.102891},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843222000930},
+author = {Anushree Badola and Santosh K. Panda and Dar A. Roberts and Christine F. Waigl and Randi R. Jandt and Uma S. Bhatt}
 ```
 **License**
 
