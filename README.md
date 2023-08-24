@@ -3,8 +3,15 @@
 
 Python codes to simulate hyperspectral data and generate vegetation map for boreal Alaska at Sentinel-2 scale.
 
-**Dependencies:**
-
+**Dependencies:**<br/>
+Python version >= 3 <br/>
+rasterio<br/>
+GDAL<br/>
+shapely<br/>
+numpy<br/>
+pandas<br/>
+scikit-learn<br/>
+matplotlib<br/>
 
 There are three Jupyter notebooks: DEM_preprocessing, Simulation, Prediction
 
@@ -43,7 +50,8 @@ The output will be tiles and the VRT file. Convert VRT file to Tiff using the fo
 
 Notebook has comments at the locations where you need to change the file. 
 
-If you want to simulate the data for different locations than boreal Alaska, you will have to identify the major classes on ground (like boreal region has birch, black spruce and gravel/trail). SRF for Sentinel and AVIRIS_NG data will remain the same.
+If you want to simulate the data for different locations than boreal Alaska, you will have to identify the major classes on ground (like boreal region has birch, black spruce and gravel/trail). SRF for Sentinel and AVIRIS_NG data will remain the same. <br/>
+Refer to: Verma et al. (2022) https://doi.org/10.3390/rs14153560
 
 You will have to train the model using the training data for your location. Additional Jupyter notebook (**Classification**) has been provided to train model and check model accuracy. You will have to provide DEM, simulated hyperspectral image (VRT file output from Simulation notebook) and input training data (shapefile or geojson (preferred format)).
 
