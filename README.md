@@ -1,7 +1,10 @@
 # hysim
+[![DOI](https://zenodo.org/badge/515659835.svg)](https://zenodo.org/badge/latestdoi/515659835)
+
 Python codes to simulate hyperspectral data and generate vegetation map for boreal Alaska at Sentinel-2 scale.
 
-**Cite the Code:** [![DOI](https://zenodo.org/badge/515659835.svg)](https://zenodo.org/badge/latestdoi/515659835)
+**Dependencies:**
+
 
 There are three Jupyter notebooks: DEM_preprocessing, Simulation, Prediction
 
@@ -66,9 +69,8 @@ Link to download fuel maps for Alaska: https://storymaps.arcgis.com/stories/41df
 
 **Reference material:**
 
-Badola et al. (2021) https://doi.org/10.3390/rs13091693
-
-Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891
+Badola et al. (2021) https://doi.org/10.3390/rs13091693 <br/>
+Badola et al. (2022) https://doi.org/10.1016/j.jag.2022.102891 <br/>
 
 For additional information contact: abadola@alaska.edu
 
