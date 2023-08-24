@@ -1,0 +1,122 @@
+{
+  "files": [
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/e0532b65-f685-446f-b60f-06228dac2193/abadola21/hysim-v1.0.zip"
+      }, 
+      "checksum": "md5:6ddb13b0a2ca01bb9fc6b95e78d9931f", 
+      "bucket": "e0532b65-f685-446f-b60f-06228dac2193", 
+      "key": "abadola21/hysim-v1.0.zip", 
+      "type": "zip", 
+      "size": 19747386
+    }
+  ], 
+  "owners": [
+    601260
+  ], 
+  "doi": "10.5281/zenodo.8277600", 
+  "stats": {
+    "version_unique_downloads": 0.0, 
+    "unique_views": 3.0, 
+    "views": 9.0, 
+    "version_views": 9.0, 
+    "unique_downloads": 0.0, 
+    "version_unique_views": 3.0, 
+    "volume": 0.0, 
+    "version_downloads": 0.0, 
+    "downloads": 0.0, 
+    "version_volume": 0.0
+  }, 
+  "links": {
+    "doi": "https://doi.org/10.5281/zenodo.8277600", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.8277599", 
+    "bucket": "https://zenodo.org/api/files/e0532b65-f685-446f-b60f-06228dac2193", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.8277599.svg", 
+    "html": "https://zenodo.org/record/8277600", 
+    "latest_html": "https://zenodo.org/record/8277600", 
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.8277600.svg", 
+    "latest": "https://zenodo.org/api/records/8277600"
+  }, 
+  "conceptdoi": "10.5281/zenodo.8277599", 
+  "created": "2023-08-23T19:29:44.304606+00:00", 
+  "updated": "2023-08-24T00:44:33.945307+00:00", 
+  "conceptrecid": "8277599", 
+  "revision": 5, 
+  "id": 8277600, 
+  "metadata": {
+    "access_right_category": "success", 
+    "doi": "10.5281/zenodo.8277600", 
+    "description": "<p>Python codes to simulate hyperspectral data for boreal Alaska at Sentinel-2 scale.</p>", 
+    "license": {
+      "id": "MIT"
+    }, 
+    "title": "abadola21/hysim: AVIRIS-NG Data Simulation and Classification for Generating Vegetation Maps for Boreal Alaska", 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "8277599"
+          }, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "8277600"
+          }
+        }
+      ]
+    }, 
+    "grants": [
+      {
+        "code": "1757348", 
+        "links": {
+          "self": "https://zenodo.org/api/grants/10.13039/100000001::1757348"
+        }, 
+        "title": "RII Track-1: Fire and Ice: Navigating Variability in Boreal Wildfire Regimes and Subarctic Coastal Ecosystems", 
+        "acronym": "", 
+        "program": "OD", 
+        "funder": {
+          "doi": "10.13039/100000001", 
+          "acronyms": [], 
+          "name": "National Science Foundation", 
+          "links": {
+            "self": "https://zenodo.org/api/funders/10.13039/100000001"
+          }
+        }
+      }
+    ], 
+    "version": "v1.0", 
+    "publication_date": "2023-08-23", 
+    "creators": [
+      {
+        "orcid": "0000-0002-8190-4559", 
+        "affiliation": "University of Alaska", 
+        "name": "Anushree Badola"
+      }, 
+      {
+        "orcid": "0000-0003-1990-9479", 
+        "affiliation": "University of Alaska", 
+        "name": "Santosh Panda"
+      }
+    ], 
+    "access_right": "open", 
+    "resource_type": {
+      "type": "software", 
+      "title": "Software"
+    }, 
+    "related_identifiers": [
+      {
+        "scheme": "url", 
+        "identifier": "https://github.com/abadola21/hysim/tree/v1.0", 
+        "relation": "isSupplementTo"
+      }, 
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.8277599", 
+        "relation": "isVersionOf"
+      }
+    ]
+  }
+}
