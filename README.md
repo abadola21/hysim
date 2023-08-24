@@ -38,7 +38,7 @@ Provide path for four files: DEM, simulated data, model path and metadata info (
 The output will be tiles and the VRT file. Convert VRT file to Tiff using the following command in terminal:
 **gdal_translate /..location../PredictedLabel.VRT /..location../Predicted.tif**
 
-==============================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Important Note**
 
@@ -51,7 +51,7 @@ You will have to train the model using the training data for your location. Addi
 
 The output will be RandomForest.joblib, Meta_Info.json and model assessments. Use RandomForest.joblib and Meta_Info.json in Prediction notebook.
 
-==============================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Additional Information**
 
