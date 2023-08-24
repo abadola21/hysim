@@ -5,13 +5,7 @@ Python codes to simulate hyperspectral data and generate vegetation map for bore
 
 **Dependencies:**<br/>
 Python version >= 3 <br/>
-rasterio<br/>
-GDAL<br/>
-shapely<br/>
-numpy<br/>
-pandas<br/>
-scikit-learn<br/>
-matplotlib<br/>
+rasterio, GDAL, shapely, numpy, pandas, scikit-learn, tqdm, matplotlib
 
 There are three Jupyter notebooks: DEM_preprocessing, Simulation, Prediction
 
