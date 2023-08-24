@@ -60,8 +60,8 @@ Be mindful while running this code on whole Sentinel scene, you will need ~200 G
 
 **Data availability**
 
-Sentinel-2 data (https://scihub.copernicus.eu/dhus/#/home)<br/>
-ASTER Global Digital Elevation Model (GDEM) (https://earthdata.nasa.gov/)<br/>
+Sentinel-2 data https://scihub.copernicus.eu/dhus/#/home <br/>
+ASTER Global Digital Elevation Model (GDEM) https://earthdata.nasa.gov/ <br/>
 Link to download fuel maps for Alaska: https://storymaps.arcgis.com/stories/41df03ea574444c98280a49351cf512a <br/>
 
 **Reference material:**
